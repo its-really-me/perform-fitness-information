@@ -1,11 +1,8 @@
 # Privacy Policy / Datenschutzerklärung
 
-For App Store Connect, a privacy policy URL is required.
-Options: host this text on a GitHub Pages site, a simple webpage, or embed it directly in the app.
-
 ---
 
-## German (for in-app display)
+## German 
 
 ### Datenschutzerklärung
 
@@ -28,11 +25,11 @@ Die App verwendet kein Tracking, keine Analyse-Tools und keine Werbedienste.
 Du kannst alle gespeicherten Daten jederzeit in den App-Einstellungen löschen.
 
 **Kontakt**
-Bei Fragen zum Datenschutz wende Dich an: [DEINE E-MAIL ADRESSE]
+Bei Fragen zum Datenschutz wende Dich an: developer@steuernagel.net
 
 ---
 
-## English (for App Store Connect listing)
+## English 
 
 ### Privacy Policy
 
@@ -55,14 +52,7 @@ The app does not use any tracking, analytics tools, or advertising services.
 You can delete all stored data at any time from within the app settings.
 
 **Contact**
-For privacy-related questions, contact: [YOUR EMAIL ADDRESS]
+For privacy-related questions, contact: developer@steuernagel.net
 
 ---
 
-## Notes for App Store submission
-
-- Replace [YOUR EMAIL ADDRESS] / [DEINE E-MAIL ADRESSE] with your actual contact email
-- Apple requires a **URL** for the privacy policy in App Store Connect, not just in-app text
-- Simple option: create a free GitHub Pages site and publish the English version there
-- The URL goes into App Store Connect under: App Information → Privacy Policy URL
-- In-app text can be German since your app targets German speakers
