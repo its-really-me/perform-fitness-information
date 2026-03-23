@@ -1,4 +1,4 @@
-# App Store Beschreibung (Deutsch)
+# App Beschreibung (Deutsch)
 
 **Perform Fitness – Dein Training, Deine Daten**
 
