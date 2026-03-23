@@ -1,7 +1,5 @@
 # Open Source Licenses
 
-Text to be used in the Settings screen, Licenses section.
-
 ---
 
 ## Open Source Licenses
